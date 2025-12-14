@@ -1,8 +1,9 @@
-package io.github.omalsecond.lwjgl3;
+package io.github.chis.lwjgl3;
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
-import io.github.omalsecond.Main;
+
+import io.github.chis.Main;
 
 /** Launches the desktop (LWJGL3) application. */
 public class Lwjgl3Launcher {
